@@ -23,7 +23,7 @@ Same reading: ['蔡', '砕', '栽', '細', '斉', '債', '猜', '才', '濟', '�
 $ yomikatawa --category <category> ...
 ```
 
-Currently, you can search for kanji(感じ), sei(姓) or mei(名).
+Currently, you can search for kanji(漢字), sei(姓) or mei(名).
 
 ```bash
 $ yomikatawa --category sei 藤原
