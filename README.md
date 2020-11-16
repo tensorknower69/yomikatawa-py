@@ -1,10 +1,11 @@
 # yomikatawa
 A python cli for https://yomikatawa.com
 
-This is just a python copy of https://github.com/tensorknower69/hs-yomikatawa,
+This is just an incomplete python copy of https://github.com/tensorknower69/hs-yomikatawa,
 
-I wrote it just for comparsion with the [Haskell version](https://github.com/tensorknower69/hs-yomikatawa).
-So, if you want to help with the project, please go to https://github.com/tensorknower69/hs-yomikatawa.
+I wrote it just for comparsion with the [Haskell version](https://github.com/tensorknower69/hs-yomikatawa), not all features are included or WILL EVER BE IMPLEMENTED.
+
+So, if you want to help with the project, please take a look at https://github.com/tensorknower69/hs-yomikatawa.
 
 ## Usage
 
