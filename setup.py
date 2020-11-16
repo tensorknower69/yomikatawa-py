@@ -17,7 +17,7 @@ setup(
 
         entry_points = {
             "console_scripts": [
-                "yomikatawa = yomikatawa.run:main"
+                "yomikatawa-py = yomikatawa.run:main"
                 ]
             }
         )
